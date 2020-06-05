@@ -1,3 +1,4 @@
 # samiulbasir.github.io
-Hi There!</br>
+Hi There!
+
 Welcome to the site.
